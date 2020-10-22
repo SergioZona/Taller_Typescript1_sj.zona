@@ -1,4 +1,4 @@
-Entrega del taller Taller_HCB_sj.zona
+Entrega del taller Taller_Typescript1_sj.zona
 
 Sergio Julian Zona Moreno (201914936) 
 
